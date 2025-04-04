@@ -41,5 +41,5 @@ El simulador permite:
 3. Ejecute el archivo:
 
 ```bash
-python dfa_gui.py
+python dfa_par_ceros.py
 ```
